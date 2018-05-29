@@ -1,0 +1,10 @@
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\bin\Debug\LightController_Prototype.exe.config
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\bin\Debug\LightController_Prototype.exe
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\bin\Debug\LightController_Prototype.pdb
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.csprojResolveAssemblyReference.cache
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.Form1.resources
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.Properties.Resources.resources
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.csproj.GenerateResource.Cache
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.exe
+c:\users\decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.pdb
+C:\Users\Decaf\documents\visual studio 2017\Projects\LightController_Prototype\LightController_Prototype\obj\Debug\LightController_Prototype.Form2.resources
